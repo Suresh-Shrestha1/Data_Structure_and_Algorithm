@@ -108,3 +108,116 @@ Each file is named according to the concept it implements. For example, `stack.c
 - 👤 [Author](#author)
 
 ---
+
+## 🧱 Stacks and Queues
+
+### 📦 Stack (LIFO – Last In, First Out)
+
+- **Description:** Implements stack operations (push, pop, peek, display) using an array.
+- **File:** [push_pop.c](push_pop.c)
+
+### 📬 Queues (FIFO – First In, First Out)
+
+- **Description:** Implements queue operations (enqueue, dequeue, display) for both linear and circular queues.
+- **Linear Queue:** [queue.c](queue.c), [linear_queue.c](linear_queue.c)
+- **Circular Queue:** [circular_queue.c](circular_queue.c)
+
+---
+
+## 🧮 Expression Conversion
+
+### ➡️ Infix to Postfix Conversion
+
+- **Description:** Converts an infix expression(e.g., A+B) to postfix notation(e.g., AB+) using a stack.
+- **File:** [conversion.c](conversion.c)
+
+---
+
+## 🔁 Recursion Examples
+Recursion is a method of solving problems where the solution depends on solutions to smaller instances of the same problem.
+
+### ✔️ Factorial
+
+- **Description:** Calculates the factorial of a number using recursion.
+- **File:** [factorial.c](factorial.c)
+
+### ➕ Fibonacci Series
+
+- **Description:** Prints the Fibonacci series up to `n` terms using recursion.
+- **File:** [fibonacci.c](fibonacci.c)
+
+### 🔃 Reverse Integer
+
+- **Description:** Reverses an integer using recursion.
+- **File:** [integer.c](integer.c)
+
+### 🔎 Prime Check
+
+- **Description:** Checks if a number is prime using recursion.
+- **File:** [primeCheck.c](primeCheck.c)
+
+### 🗼 Tower of Hanoi
+
+- **Description:** Solves the Tower of Hanoi problem using recursion.
+- **File:** [tower.c](tower.c)
+
+---
+
+## 🔗 Linked Lists
+A linked list is a linear data structure where elements (nodes) point to the next node.
+
+### 📎 Singly Linked List
+
+- **Insert/Delete at Beginning→** [insert_delete_beg_Linked.c](insert_delete_beg_Linked.c)
+- **Insert/Delete at End→** [insert_delete_end_Linked.c](insert_delete_end_Linked.c)
+- **Insert/Delete at Specific Position→** [insert_delete_specific_Linked.c](insert_delete_specific_Linked.c)
+
+### 🔄 Doubly Linked List
+
+- **Insert/Delete at Beginning→** [insert_delete_beg_double_Linked.c](insert_delete_beg_double_Linked.c)
+- **Insert/Delete at End→** [insert_delete_end_double_Linked.c](insert_delete_end_double_Linked.c)
+- **Insert/Delete at Specific Position→** [insert_delete_specific_double_Linked.c](insert_delete_specific_double_Linked.c)
+
+### 🌀 Circular Linked List
+
+- **Insert/Delete at Position→** [insert_delete_circular_linked_list.c](insert_delete_circular_linked_list.c)
+
+### 🔢 Count Nodes in Linked List
+
+- **Description:** Counts the number of nodes in a singly linked list.
+- **File:** [node_count_linke_list.c](node_count_linke_list.c)
+
+---
+
+## 🌳 Tree and Traversals
+A tree is a hierarchical structure. Traversal means visiting each node in a specific order.
+
+- **File:** [in_pre_post_node.c](in_pre_post_node.c)
+- **Description:** Implements a Binary Search Tree (BST) with insertion and tree traversal methods (inorder, preorder, postorder).
+
+---
+
+## 📊 Sorting Algorithms
+Sorting algorithms arrange elements in a specific order (ascending/descending). These are essential for efficient searching and data analysis.
+
+### 🔹 Bubble Sort
+- **Description:** Implements the bubble sort algorithm to sort an array of integers in ascending order. Repeatedly swaps adjacent elements if they are in the wrong order.
+- **File:** [bubblesorting.c](bubblesorting.c)
+
+### 🔹 Insertion Sort
+- **Description:** Implements the insertion sort algorithm to sort an array of integers. Builds the final sorted array one item at a time.
+- **File:** [insertionsorting.c](insertionsorting.c)
+
+---
+
+## 🔍 Searching Algorithms
+Searching algorithms help locate an element in a dataset.
+### 🔸 Linear Search
+- **Description:** Searches for a specific element in an array using the linear (sequential) search method. Checks each element until the target is found.
+- **File:** [linearsearch.c](linearsearch.c)
+
+### 🔸 Binary Search
+- **Description:** Searches for a specific element in a sorted array using the binary search algorithm. Efficiently searches a sorted array by repeatedly dividing the search interval.
+- **File:** [binarysearch.c](binarysearch.c)
+
+---
