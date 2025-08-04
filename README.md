@@ -80,11 +80,11 @@ Each file is named according to the concept it implements. For example, `stack.c
 
 ## 📚 Table of Contents
 
-- 🧱 [Stacks and Queues](#stacks-and-queues)
+- 🧱 [Stacks and Queues](#-stacks-and-queues)
   - [Stack (LIFO - Last In, First Out](#-stack-lifo--last-in-first-out)
   - [Queue (FIFO - First In, First Out)](#-queues-fifo--first-in-first-out)
-- 🧮 [Expression Conversion](#expression-conversion)
-- 🔁 [Recursion Examples](#recursion-examples)
+- 🧮 [Expression Conversion](#-expression-conversion)
+- 🔁 [Recursion Examples](#-recursion-examples)
   - [Factorial](#factorial)
   - [Fibonacci Series](#fibonacci-series)
   - [Reverse Integer](#reverse-integer)
