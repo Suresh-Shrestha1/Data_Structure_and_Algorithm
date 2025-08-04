@@ -221,3 +221,48 @@ Searching algorithms help locate an element in a dataset.
 - **File:** [binarysearch.c](binarysearch.c)
 
 ---
+
+## 🧪 How to Compile and Run
+
+For each `.c` file, compile using GCC (or any C compiler):
+
+```sh
+gcc filename.c -o filename.exe
+./filename.exe
+```
+
+📌 Replace `filename.c` with the desired source file.
+
+---
+
+## 🧠 Key Concepts
+|Concept | Importance |
+| ------- | -----------
+| Arrays | Foundation for all data manipulation |
+| Linked Lists | Dynamic memory usage; pointers |
+| Stack & Queue | Used in recursion, backtracking, scheduling |
+| Trees | Organize hierarchical data, BST, searching |
+| Recursion | Fundamental logic structure, especially in tree problems and divide & conquer |
+| Sorting & Searching | Basis of efficient algorithms and real-time systems |
+| Expression Parsing | Core of compilers and interpreters |
+
+---
+
+## 📌 Notes
+
+- All programs are written in standard C, compatible with all major compilers.
+- Each program demonstrates a specific DSA concept with sample input/output.
+- You can modify the sample data or add user input as needed.
+- Ideal for:
+    - University students
+    - Interview prep
+    - Competitive programming foundations
+- You are encouraged to modify and experiment with the code!
+
+---
+
+## 👤 Author
+
+>✍️ This project is a curated learning repository to help others understand and apply DSA concepts using C.
+
+Feel free to contribute or improve the repository!
