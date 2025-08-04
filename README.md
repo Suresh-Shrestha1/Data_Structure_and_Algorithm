@@ -76,5 +76,35 @@ Each file is named according to the concept it implements. For example, `stack.c
 ├── tower.c
 └── tower.exe
 ```
+---
+
+## 📚 Table of Contents
+
+- 🧱 [Stacks and Queues](#stacks-and-queues)
+  - [Stack (LIFO - Last In, First Out](#-stack-lifo--last-in-first-out)
+  - [Queue (FIFO - First In, First Out)](#-queues-fifo--first-in-first-out)
+- 🧮 [Expression Conversion](#expression-conversion)
+- 🔁 [Recursion Examples](#recursion-examples)
+  - [Factorial](#factorial)
+  - [Fibonacci Series](#fibonacci-series)
+  - [Reverse Integer](#reverse-integer)
+  - [Prime Check](#prime-check)
+  - [Tower of Hanoi](#tower-of-hanoi)
+- 🔗 [Linked Lists](#linked-lists)
+  - [Singly Linked List](#singly-linked-list)
+  - [Doubly Linked List](#doubly-linked-list)
+  - [Circular Linked List](#circular-linked-list)
+  - [Count Nodes in Linked List](#count-nodes-in-linked-list)
+- 🌳 [Tree and Traversals](#tree-and-traversals)
+- 📊 [Sorting Algorithms](#sorting-algorithms)
+  - [Bubble Sort](#bubble-sort)
+  - [Insertion Sort](#insertion-sort)
+- 🔍 [Searching Algorithms](#searching-algorithms)
+  - [Linear Search](#linear-search)
+  - [Binary Search](#binary-search)
+- 🧪 [How to Compile and Run](#how-to-compile-and-run)
+- 🧠 [Key Concepts](#key-concepts)
+- 📌 [Notes](#notes)
+- 👤 [Author](#author)
 
 ---
