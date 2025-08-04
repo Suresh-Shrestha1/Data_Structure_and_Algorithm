@@ -106,7 +106,6 @@ Each file is named according to the concept it implements. For example, `stack.c
 - 🧠 [Key Concepts](#-key-concepts)
 - 📌 [Notes](#-notes)
 - 👤 [Author](#-author)
-- [no](#no)
 
 ---
 
@@ -122,7 +121,7 @@ Each file is named according to the concept it implements. For example, `stack.c
 - **Description:** Implements queue operations (enqueue, dequeue, display) for both linear and circular queues.
 - **Linear Queue:** [queue.c](queue.c), [linear_queue.c](linear_queue.c)
 - **Circular Queue:** [circular_queue.c](circular_queue.c)
-# no
+
 ---
 
 ## 🧮 Expression Conversion
